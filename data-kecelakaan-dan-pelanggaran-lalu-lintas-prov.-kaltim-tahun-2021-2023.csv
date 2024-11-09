@@ -1,0 +1,14 @@
+No;Daftar Data;2021;2022;2023;Satuan
+1;Data Kecelakaan Lalu Lintas;;;;
+;1) Jumlah Kecelakaan;496;178;178;Kejadian
+;2)  Korban Meninggal Dunia;267;89;89;Jiwa
+;3) Korban Luka Ringan;307;102;102;Jiwa
+;4) Korban Luka Berat;142;27;27;Jiwa
+;5) Kerugian Materi;3385450000;1106150001;1106150001;Rp
+2;Data Pelanggaran Lalu Lintas;;;;
+;1) Jumlah Pelanggaran;56458;15570;15570;Kejadian
+;2) Denda;3114086000;729153000;729153000;Rp
+3;Kecelakaan Transportasi;;;;
+;1) Udara;0;0;0;Kali/Tahun
+;2) Laut;0;0;0;Kali/Tahun
+;3) Sungai;0;0;0;Kali/Tahun
